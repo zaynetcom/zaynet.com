@@ -6,7 +6,7 @@ const harga5 = document.getElementById("price5");
 
 
 //harga 1
-harga1.textContent = "165.000/bulan";
+harga1.textContent = "200.000/bulan";
 //harga 2
 harga2.textContent = "228.000/bulan";
 //harga 3
