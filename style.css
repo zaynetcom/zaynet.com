@@ -99,7 +99,7 @@ header nav a {
 }
 
 .card-container .card-list .card-item .heading-card h4 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: #fff;
     font-family: "Roboto", system-ui;
     font-weight: 800;
@@ -144,6 +144,25 @@ header nav a {
     font-weight: 500;
     font-style: normal;
     padding: 8px;
+}
+
+.card-item .card-price .card-total {
+    width: 100%;
+    background-color: #cacaca;
+    padding: 8px;
+    border-radius: 15px;
+}
+
+.card-item .card-price h5 {
+    font-size: 1rem;
+    font-family: "Ubuntu", system-ui;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.card-item .card-price .tot {
+    font-size: 1.3rem;
+    color: #ff4c49;
 }
 
 .card-item .btn-wa button {
